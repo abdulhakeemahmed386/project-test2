@@ -11,7 +11,7 @@ metadata:
     manager: kube-apiserver
     operation: Update
     time: "2020-12-21T23:07:04Z"
-  name: test2
+  name: test
   resourceVersion: "157"
   uid: ae1b16ce-9553-47e1-9a88-417a67fcd1d6
 spec:
